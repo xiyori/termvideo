@@ -1,7 +1,7 @@
 # termvideo
 Video player for command terminal built on ASCII color codes, FFmpeg & PyAudio.
 
-[alt text](https://raw.githubusercontent.com/xiyori/termvideo/main/pic/bad_apple.png)
+![alt text](https://raw.githubusercontent.com/xiyori/termvideo/main/pic/bad_apple.png)
 
 This is a short decription
 
